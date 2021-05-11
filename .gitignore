@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VsCode Configurations
+.vscode/
+
+#The output of the program
+output_images/
